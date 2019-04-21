@@ -22,6 +22,7 @@ header, body {
 .nav-item {
     font-size: 24px;
 }
+
 /****************************************************************footer*/
 
 footer {
@@ -44,9 +45,26 @@ footer ul {
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    background: #8f8f8f;
+    background: #684971;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
+}
+/**************************************************contact form*/
+.contact-heading {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.center-form {
+    padding-top: 10px;
+    margin:0 auto;
+    max-width: 70%;
+    
+}
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #684971;
 }
