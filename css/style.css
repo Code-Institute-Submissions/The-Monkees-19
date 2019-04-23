@@ -9,6 +9,8 @@ body {
   min-height: 100vh;
   position: relative;
   margin: 0;
+  line-height: 2em;
+  font-size: 14pt;
 }
 
 /************************************************************google fonts*/
@@ -24,13 +26,16 @@ header, body {
 }
 
 /****************************************************************footer*/
-
+img {
+    padding:1em;
+}
 footer {
   /*position: absolute;*/
   bottom: 0;
   color: #fafafa;
   text-align: center;
   padding: .5em;
+  clear:both;
  
 }
 footer ul {
