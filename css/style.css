@@ -45,7 +45,6 @@ footer ul {
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    background: #684971;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -67,4 +66,22 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #684971;
+}
+.bg-color-pin {
+    background-color: #bd081c;
+}
+.bg-color-mail {
+     background-color: #f57d00;
+}
+.bg-color-twitter {
+     background-color: #55acee;
+}
+.bg-color-facebook {
+     background-color: #3b5998;
+}
+.bg-color-insta {
+    background-color: #517fa4; 
+}
+.bg-color-youtube {
+    background-color: #b31217; 
 }
