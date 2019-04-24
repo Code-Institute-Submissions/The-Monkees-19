@@ -10,7 +10,7 @@ body {
   position: relative;
   margin: 0;
   line-height: 2em;
-  font-size: 14pt;
+  font-size: 16pt;
 }
 
 /************************************************************google fonts*/
@@ -97,4 +97,24 @@ article {
 }
 h2 {
     text-align: center;
+}
+/************************************memeber images*/
+.team{
+ margin: 4em 0;
+ position: relative;  
+}
+.team h1{
+ color:#ed1d24;
+ margin: 1em; 
+}
+.team .item{
+ position: relative;
+}
+.team .des{
+ background: #ed1d24;
+ color: #fff;
+ text-align: center;
+ border-bottom-left-radius: 49%;
+ border-top-right-radius: 49%;
+ transition:.3s ease-in-out;
 }
