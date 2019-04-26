@@ -11,6 +11,7 @@ body {
   margin: 0;
   line-height: 2em;
   font-size: 16pt;
+   
 }
 
 /************************************************************google fonts*/
@@ -57,6 +58,7 @@ footer ul {
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
+
 /**************************************************contact form*/
 .contact-heading {
     margin-top: 25px;
@@ -95,26 +97,26 @@ button[type="submit"] {
 article {
     padding: 2em;
 }
-h2 {
-    text-align: center;
+
+h1, h2{
+ color:teal;
+ margin: 1em; 
+ text-align: center;
 }
 /************************************memeber images*/
 .team{
- margin: 4em 0;
- position: relative;  
+ margin: 2em 0;
+ position: relative;
+ background-image: url("../images/micro.jpg");
 }
-.team h1{
- color:#ed1d24;
- margin: 1em; 
-}
+
 .team .item{
  position: relative;
 }
 .team .des{
- background: #ed1d24;
- color: #fff;
+ background: teal;
+ color: white;
  text-align: center;
  border-bottom-left-radius: 49%;
  border-top-right-radius: 49%;
- transition:.3s ease-in-out;
 }
