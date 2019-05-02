@@ -39,8 +39,6 @@ footer {
   text-align: center;
   padding: .5em;
   clear:both;
-  
-  
  
 }
 footer ul {
@@ -71,12 +69,12 @@ footer ul {
 .center-form {
     padding-top: 10px;
     margin:0 auto;
-    max-width: 70%;
+    max-width: 60%;
     
 }
 button[type="submit"] {
     margin-top: 15px;
-    margin-bottom: 180px;
+    margin-bottom: 170px;
     color: #fafafa;
     background-color: #517fa4;
 }
