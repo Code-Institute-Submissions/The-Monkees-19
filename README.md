@@ -24,8 +24,9 @@ weddings, any special events.
 The website is designed with help of Bootstrap library, it
 is responsive (mobile, tablet,desktop). Wireframes are provided 
 in mock-ups folder. 
-* JQuery - was used for navigation tablet and mobile mode.
+* JQuery - was used collapse navbar.
 * Bootstrap Css - to make design responsive.
+* Balsamiq - to draw wireframes.
  
 ## Features
 
@@ -33,12 +34,12 @@ in mock-ups folder.
 find 8 most popular Monkees songs.
 
 * Latest album - this information is placed in the home page, when user clicks on
- album's "Unwrap You At Christmas" image an external amazon.com page opens from where it can be bought.
+ the album's "Unwrap You At Christmas" image,  an amazon.com page opens from where the alnum can be bought.
 
 * Tickets - on the events page a list of upcoming tours
- is provided. Users can see location, date and price (regular and VIP).
+ is provided. Users can see locations, dates and prices (regular and VIP).
 
-* Private booking - users who want to arrange a show for their private pevents can 
+* Private booking - users who want to arrange a show for their private events can 
  contact the band through the form on contacts page.
 
 * Social links - in the footer of every page users can click on 
@@ -47,7 +48,7 @@ to band's official social accounts.
 
 ## Testing
 
-The site was tested for its responsivness, how it behaves 
+The site was tested for its responsivness and how it behaves 
 across different browsers.
 ## Deployment
 
