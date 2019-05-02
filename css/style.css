@@ -11,6 +11,7 @@ body {
   margin: 0;
   line-height: 2em;
   font-size: 16pt;
+  max-width: 1200px;
    
 }
 
@@ -32,11 +33,13 @@ img {
 }
 footer {
   /*position: absolute;*/
-  bottom: 0;
+  margin-bottom: 0;
   color: #fafafa;
   text-align: center;
   padding: .5em;
   clear:both;
+  
+  
  
 }
 footer ul {
@@ -120,3 +123,4 @@ h1, h2{
  border-bottom-left-radius: 49%;
  border-top-right-radius: 49%;
 }
+
