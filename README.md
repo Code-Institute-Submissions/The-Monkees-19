@@ -19,7 +19,7 @@ The Monkees website provides information such as band's
 A contact form is provided to arrange shows for parties, 
 weddings, any special events. 
 
-## Desing, Technologies used
+## Design, Technologies used
 
 The website is designed with help of Bootstrap library, it
 is responsive (mobile, tablet,desktop). Wireframes are provided 
