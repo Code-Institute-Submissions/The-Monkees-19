@@ -4,6 +4,15 @@
     padding: 0;
     margin: 0;
 }
+.navbar {
+    padding: 0;
+}
+.form-control {
+  margin: 1em;  
+}
+.bg {
+    background-color: teal;
+}
 /********************************************************body*/
 body {
   min-height: 100vh;
@@ -27,7 +36,9 @@ header, body {
 .nav-item {
     font-size: 24px;
 }
-
+.current {
+    background-color: #545454;
+}
 /****************************************************************footer*/
 img {
     padding:1em;
@@ -39,6 +50,7 @@ footer {
   text-align: center;
   padding: .5em;
   clear:both;
+  font-size: 10px;
  
 }
 footer ul {
@@ -76,7 +88,7 @@ button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 170px;
     color: #fafafa;
-    background-color: #517fa4;
+    background-color: #545454;
 }
 .bg-color-pin {
     background-color: #bd081c;
